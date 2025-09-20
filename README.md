@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Hitu  
-🚀 A passionate Full-Stack Developer | Python & Flask | Django Enthusiast
-
+# 👋 Hi, I'm Hitanshu 
+🚀 A passionate Full-Stack Developer | Python & Flask | Django Enthusiast <br>
+💻 I love building real-world projects that solve problems and help people. <br> 
+🎓 Currently learning **Django & PostgreSQL** to sharpen my backend skills.  
+🌟 Interested in **Web Development, APIs, Databases, and Automation**.
 ---
 
 ## 💡 About Me
@@ -11,7 +13,8 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech I Use
+![Python](https://skillicons.dev/icons?i=python,flask,django,html,css,js,bootstrap,git,github,postgresql) <br>
 **Languages:** Python | Java | JavaScript | HTML | CSS  
 **Frameworks:** Flask | Django | Bootstrap  
 **Databases:** PostgreSQL | SQLite | MySQL  
@@ -33,8 +36,8 @@
 ---
 
 ## 🌍 Connect With Me
-- 📧 Email: **hituuprajapati917@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/hitanshu-prajapati-hi)  
-- 🐦 Twitter: [twitter.com/yourprofile](https://twitter.com/btwitshituuu)  
+- 📧 Email: **hitanshubro1@gmail.com**  
+- 💼 [LinkedIn Profile](https://linkedin.com/in/hitanshu-prajapati-hi)  
+- 🐦 [Twitter](https://twitter.com/btwitshituuu)  
 
 ⭐️ *"Code, Learn, Share & Grow!"*  
