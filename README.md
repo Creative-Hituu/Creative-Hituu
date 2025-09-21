@@ -3,6 +3,7 @@
 💻 I love building real-world projects that solve problems and help people. <br> 
 🎓 Currently learning **Django & PostgreSQL** to sharpen my backend skills.  
 🌟 Interested in **Web Development, APIs, Databases, and Automation**.
+
 ---
 
 ## 💡 About Me
